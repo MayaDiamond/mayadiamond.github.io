@@ -5,7 +5,7 @@ title: Homepage
 
 ## About Me
 
-I'm a second year Industrial engineering student studying at the University of Toronto.
+Hi! I'm Maya Diamond, and I am a 3rd year Industrial engineering student studying at the University of Toronto. I love engineering as it is a discipline where I can explore the overlap between my creatvive side, and my love of math, coding, and logic. 
 
 description of me
 

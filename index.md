@@ -5,7 +5,7 @@ title: Homepage
 
 ## About Me
 
-I'm a third year Computer Engineering student studying at the University of Toronto.
+I'm a second year Industrial engineering student studying at the University of Toronto.
 In my spare time, I like to tinker with whatever technology I can get my hands on.
 I'm fascinated by the incredible things one can do with computers; I strive to understand and explore technology as much as possible.
 

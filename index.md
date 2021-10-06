@@ -6,6 +6,7 @@ title: Homepage
 ## About Me
 
 I'm a second year Industrial engineering student studying at the University of Toronto.
+
 description of me
 
 ## What I've Done

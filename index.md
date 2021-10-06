@@ -6,8 +6,7 @@ title: Homepage
 ## About Me
 
 I'm a second year Industrial engineering student studying at the University of Toronto.
-In my spare time, I like to tinker with whatever technology I can get my hands on.
-I'm fascinated by the incredible things one can do with computers; I strive to understand and explore technology as much as possible.
+description of me
 
 ## What I've Done
 
@@ -17,9 +16,7 @@ Feel free to explore my [GitHub](https://github.com/zakharykaplan) to see some o
 
 ### Work
 
-In my second year of undergraduate studies, I was a member of the [iQua Research Group](https://iqua.ece.toronto.edu) and worked on several machine learning related projects, the findings of one of which were published in a paper accepted into 2020 IEEE INFOCOM.
-
-More recently, this past summer, I worked as a software developer for [Geomechanica Inc](https://www.geomechanica.com), during which time I had the opportunity to solve complex problems developing features for Irazu, their geomechanical simulation software.
+my work
 
 ### Publications
 

@@ -41,14 +41,8 @@ Designed a communication system to help Toronto Islands residents during floods
 
 Redesigned UofT’s Career and Co-Curricular Learning Network job board. Conducted user interviews, created low-fidelity prototypes, and conducted usability testing
 
-[GitHub](https://github.com/zakharykaplan)
-
 
 ### Work
 
 my work
 
-### Publications
-
-- **Optimizing Federated Learning on Non-IID Data with Reinforcement Learning** <sup>[[PDF]](./papers/infocom20.pdf)[[Slides]](./papers/infocom20-slides.pdf)</sup><br>
-  Hao Wang, <ins>Zakhary Kaplan</ins>, Di Niu, Baochun Li. *IEEE INFOCOM 2020*.
